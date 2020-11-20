@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: sbook
+      host: localhost
+      port: 27017
+      
